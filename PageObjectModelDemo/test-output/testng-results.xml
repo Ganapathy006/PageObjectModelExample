@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18016" started-at="2020-04-13T07:32:33Z" finished-at="2020-04-13T07:32:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18016" started-at="2020-04-13T07:32:33Z" finished-at="2020-04-13T07:32:51Z">
+      <class name="testcases.TimePageTestcase">
+        <test-method status="PASS" signature="timepage()[pri:0, instance:testcases.TimePageTestcase@18a00e3]" name="timepage" duration-ms="17992" started-at="2020-04-13T13:02:33Z" finished-at="2020-04-13T13:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timepage -->
+      </class> <!-- testcases.TimePageTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

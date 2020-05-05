@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite" verbose="2" parallel="methods" thread-count="2">
+<listeners>
+<listener class-name="testNG.ListenersExample"></listener>
+</listeners>
+<test name="Test cases">
+<!-- <groups>
+<run>
+ <include name="Moto"></include>
+<include name="Vivo"></include> 
+</run>
+</groups>  -->
+
+<!-- <parameter name="Name" value="Duck"></parameter> -->
+
+
+<classes>
+<!-- <class name="testNG.DependenciesExample"></class>
+<class name="testNG.PriorityExample"></class>
+<class name="testNG.Sampletestcase"></class>
+<class name="testNG.SkiptestcaseExample"></class> 
+<class name="testNG.GroupingExample"></class> 
+<class name="testNG.ParameterizationExample"></class> 
+<class name="testNG.ParallelExample"></class> -->
+<class name="testNG.Sampletestcase"></class>
+</classes>
+</test>
+</suite>
